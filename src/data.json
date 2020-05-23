@@ -1,0 +1,23 @@
+{
+    "data":[
+         {
+              "nombre": "Pedro",
+              "apellido": "Lopez",
+              "ciudad": "Santiago",
+              "estado": true
+         },
+         {
+              "nombre": "Juan",
+              "apellido": "Gomez",
+              "ciudad": "Valparaiso",
+              "estado": true
+         },
+         {
+              "nombre": "Susana",
+              "apellido": "Oria",
+              "ciudad": "Chillan",
+              "estado": true
+         }
+    
+    ]
+}
