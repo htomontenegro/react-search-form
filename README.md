@@ -1,4 +1,4 @@
-## Curriculum ReactJS
+## Libreta de contacto
 
 Creado con React JS.
 
